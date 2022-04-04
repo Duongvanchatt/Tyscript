@@ -27,6 +27,20 @@
 .App-link {
   color: #61dafb;
 }
+.bang{
+  width: 100%;
+  margin-top: 20px;
+  padding: 0 30px;
+}
+.cot tr th{
+  background-color: #282c34;
+  color: white;
+  font-size: 17px;
+}
+.cot tr td{
+  background-color: aliceblue;
+  color: black;
+}
 
 @keyframes App-logo-spin {
   from {

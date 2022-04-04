@@ -1,0 +1,106 @@
+{
+  "products": [
+    {
+      "name": "Áo dạ nữ dài",
+      "price": 1200000,
+      "id": 8
+    },
+    {
+      "name": "chất dv",
+      "price": 1200000,
+      "id": 10
+    }
+  ],
+  "post": [
+    {
+      "title": "saf",
+      "desc": "fAGA",
+      "author": "DHRSHR",
+      "category": "dgar",
+      "thumbnail": "charttt",
+      "status": "1",
+      "id": 1
+    },
+    {
+      "title": "adg",
+      "desc": "Chat dep trau",
+      "author": "Thành Trung ",
+      "category": "1",
+      "thumbnail": "dgre",
+      "status": "1",
+      "id": 2
+    },
+    {
+      "title": "daf",
+      "desc": "xau",
+      "author": "vsa",
+      "category": "dgar",
+      "thumbnail": "dgre",
+      "status": "0",
+      "id": 3
+    },
+    {
+      "title": "saff",
+      "desc": "sav",
+      "author": "sav",
+      "category": "x",
+      "thumbnail": "ghhjk",
+      "status": "0",
+      "id": 4
+    },
+    {
+      "title": "chat",
+      "desc": "fsbsf",
+      "author": "czb",
+      "category": "zB",
+      "thumbnail": "13244",
+      "status": "1",
+      "id": 5
+    },
+    {
+      "title": "gzn",
+      "desc": "dgng",
+      "author": "DHRSHR",
+      "category": "dn",
+      "thumbnail": "ns",
+      "status": "0",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "name": "Áo dạ nữ dài",
+      "id": 2
+    },
+    {
+      "name": "Áo dạ nữ dàittttttt",
+      "id": 3
+    },
+    {
+      "name": "chat",
+      "id": 4
+    },
+    {
+      "name": "Áo dạ nữ dài",
+      "id": 5
+    },
+    {
+      "name": "anhhhh",
+      "id": 6
+    }
+  ],
+  "book": [
+    {
+      "name": "Minh ",
+      "price": "1200000",
+      "cat_id": "1",
+      "id": 3
+    },
+    {
+      "name": "Áo dạ nữ dài",
+      "price": "10000",
+      "cat_id": "2",
+      "id": 4
+    }
+  ]
+}
